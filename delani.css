@@ -76,3 +76,7 @@ footer {
     padding: 3px;
     background-color: #30336b;
 }
+
+footer p{
+    font-size: 1rem;
+}
